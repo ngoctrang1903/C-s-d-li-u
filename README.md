@@ -1,4 +1,5 @@
 #Cơ sở dữ liệu nâng cao 
+```sql
 use nhom08
 go
 --1
